@@ -1,7 +1,30 @@
 /* Your Website Styles */
 
+h1 {
+	font-family: 'Lato', sans-serif;
+	color: #987894;
+	font-size: 80px;
+}
+
+h3 {
+	font-family: 'Lato', sans-serif;
+	color: #987894;
+	font-size: 24px;
+	float: center;
+	position: center; 
+}
+
+body {
+	background: url(../img/gray_jean.png);
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
+	background: #BAB6C2;
+};
